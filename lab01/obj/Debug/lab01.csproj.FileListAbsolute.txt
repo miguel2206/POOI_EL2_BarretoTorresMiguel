@@ -1,0 +1,11 @@
+G:\COPIA DE SEGURIDAD\source\repos\.NET\CL2\lab01\obj\Debug\lab01.csprojAssemblyReference.cache
+G:\COPIA DE SEGURIDAD\source\repos\.NET\CL2\lab01\obj\Debug\lab01.Form1.resources
+G:\COPIA DE SEGURIDAD\source\repos\.NET\CL2\lab01\obj\Debug\lab01.Properties.Resources.resources
+G:\COPIA DE SEGURIDAD\source\repos\.NET\CL2\lab01\obj\Debug\lab01.csproj.GenerateResource.cache
+G:\COPIA DE SEGURIDAD\source\repos\.NET\CL2\lab01\obj\Debug\lab01.csproj.CoreCompileInputs.cache
+G:\COPIA DE SEGURIDAD\source\repos\.NET\CL2\lab01\bin\Debug\lab01.exe.config
+G:\COPIA DE SEGURIDAD\source\repos\.NET\CL2\lab01\bin\Debug\lab01.exe
+G:\COPIA DE SEGURIDAD\source\repos\.NET\CL2\lab01\bin\Debug\lab01.pdb
+G:\COPIA DE SEGURIDAD\source\repos\.NET\CL2\lab01\obj\Debug\lab01.exe
+G:\COPIA DE SEGURIDAD\source\repos\.NET\CL2\lab01\obj\Debug\lab01.pdb
+G:\COPIA DE SEGURIDAD\source\repos\.NET\CL2\lab01\obj\Debug\lab01.CargarBarra.resources

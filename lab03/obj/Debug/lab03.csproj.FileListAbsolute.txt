@@ -1,0 +1,10 @@
+G:\COPIA DE SEGURIDAD\source\repos\.NET\CL2\lab03\bin\Debug\lab03.exe.config
+G:\COPIA DE SEGURIDAD\source\repos\.NET\CL2\lab03\bin\Debug\lab03.exe
+G:\COPIA DE SEGURIDAD\source\repos\.NET\CL2\lab03\bin\Debug\lab03.pdb
+G:\COPIA DE SEGURIDAD\source\repos\.NET\CL2\lab03\obj\Debug\lab03.Form1.resources
+G:\COPIA DE SEGURIDAD\source\repos\.NET\CL2\lab03\obj\Debug\lab03.Properties.Resources.resources
+G:\COPIA DE SEGURIDAD\source\repos\.NET\CL2\lab03\obj\Debug\lab03.csproj.GenerateResource.cache
+G:\COPIA DE SEGURIDAD\source\repos\.NET\CL2\lab03\obj\Debug\lab03.csproj.CoreCompileInputs.cache
+G:\COPIA DE SEGURIDAD\source\repos\.NET\CL2\lab03\obj\Debug\lab03.exe
+G:\COPIA DE SEGURIDAD\source\repos\.NET\CL2\lab03\obj\Debug\lab03.pdb
+G:\COPIA DE SEGURIDAD\source\repos\.NET\CL2\lab03\obj\Debug\lab03.csprojAssemblyReference.cache

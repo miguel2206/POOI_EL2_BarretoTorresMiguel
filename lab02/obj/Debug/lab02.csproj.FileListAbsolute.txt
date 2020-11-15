@@ -1,0 +1,10 @@
+G:\COPIA DE SEGURIDAD\source\repos\.NET\CL2\lab02\bin\Debug\lab02.exe.config
+G:\COPIA DE SEGURIDAD\source\repos\.NET\CL2\lab02\bin\Debug\lab02.exe
+G:\COPIA DE SEGURIDAD\source\repos\.NET\CL2\lab02\bin\Debug\lab02.pdb
+G:\COPIA DE SEGURIDAD\source\repos\.NET\CL2\lab02\obj\Debug\lab02.csprojAssemblyReference.cache
+G:\COPIA DE SEGURIDAD\source\repos\.NET\CL2\lab02\obj\Debug\lab02.Form1.resources
+G:\COPIA DE SEGURIDAD\source\repos\.NET\CL2\lab02\obj\Debug\lab02.Properties.Resources.resources
+G:\COPIA DE SEGURIDAD\source\repos\.NET\CL2\lab02\obj\Debug\lab02.csproj.GenerateResource.cache
+G:\COPIA DE SEGURIDAD\source\repos\.NET\CL2\lab02\obj\Debug\lab02.csproj.CoreCompileInputs.cache
+G:\COPIA DE SEGURIDAD\source\repos\.NET\CL2\lab02\obj\Debug\lab02.exe
+G:\COPIA DE SEGURIDAD\source\repos\.NET\CL2\lab02\obj\Debug\lab02.pdb
